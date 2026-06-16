@@ -1,0 +1,1 @@
+Simpan screenshot FastAPI /docs, hasil /predict, dan /metrics di folder ini.
